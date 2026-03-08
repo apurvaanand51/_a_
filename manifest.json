@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Animated Canvas Wallpaper",
+  "version": "1.0",
+  "description": "when the ball meets",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "permissions": []
+}
