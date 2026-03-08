@@ -1,4 +1,4 @@
-> when the ball returns
+# when the ball returns
 
 ---
 
@@ -41,7 +41,6 @@ And thinkers are the ones who shape new ideas.
 <img src="./demo.gif" alt="Alt text" width="80%" height="60%" />
 </p>
 
-## Feel free to contribute to this project.
 
 ## Steps to make it your browser wallpaper (Chrome) - 
 
@@ -53,4 +52,5 @@ And thinkers are the ones who shape new ideas.
 - Select the unzipped folder.
 - Done!
 
-# Made by Apurva Anand.
+## Made by Apurva Anand.
+## Feel free to contribute to this project.
