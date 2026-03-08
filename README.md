@@ -53,4 +53,4 @@ And thinkers are the ones who shape new ideas.
 - Done!
 
 ## Made by Apurva Anand.
-## Feel free to contribute to this project.
+Feel free to contribute to this project.
